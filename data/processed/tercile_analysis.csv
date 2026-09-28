@@ -1,0 +1,4 @@
+sentiment_tercile,avg_next_day_return,avg_three_day_return,n_calls
+Negative/cautious call,-0.0056,-0.0066,22
+Neutral call,-0.0037,-0.0033,22
+Positive call,0.0087,0.0123,20

@@ -1,0 +1,3 @@
+target,pearson_r,pearson_p,spearman_r,spearman_p
+NextDayReturn,0.094,0.4598,0.234,0.0624
+ThreeDayReturn,0.118,0.3526,0.163,0.1975
