@@ -1,5 +1,6 @@
 # Fintech Earnings Sentiment vs. Stock Price Reaction
 https://sentimentxls.streamlit.app/
+
 **Business problem:** Does market reaction to earnings calls align with the sentiment
 of what executives actually said? This project scores earnings call sentiment for
 8 major fintech/banking companies and tests whether it's a leading indicator of the
